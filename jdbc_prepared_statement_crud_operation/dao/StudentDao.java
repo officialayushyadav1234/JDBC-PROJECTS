@@ -1,4 +1,4 @@
-package com.jspider.jdbc_statement_crud_operation.dao;
+package com.jspider.jdbc_prepared_statement_crud_operation.dao;
 
 import java.sql.*;
 
